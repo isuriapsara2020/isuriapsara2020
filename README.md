@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **HCL Tech Sri Lanka**
 
-- 🌱 I’m currently learning **Spring , Angular ,React**
+- 🌱 I’m currently learning **Spring , Angular ,React, Flutter & Firebase**
 
 - 📫 How to reach me **isuriapsara20@gmail.com**
 
